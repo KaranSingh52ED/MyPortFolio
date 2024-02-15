@@ -245,7 +245,7 @@ export const education = [
     img: "",
     school: "Indian Institute of Technology Madras, Chennai (TN)",
     date: "Nov 2022 - Jul 2027",
-
+    grade: "7.3/10",
     desc: "",
   },
   {
