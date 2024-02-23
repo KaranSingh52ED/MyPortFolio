@@ -10,7 +10,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/KaranSingh52ED",
   resume:
-    "https://drive.google.com/file/d/1jD6xJRHiI62_cFv2ZevxcI3K6MaNpNqd/view?usp=sharing",
+    "https://drive.google.com/file/d/1wN4xfsCrx2QM1iC6EYRsHrVkhxfD-R1E/view?usp=drive_link",
   linkedin: "",
   twitter: "",
   insta: "",
