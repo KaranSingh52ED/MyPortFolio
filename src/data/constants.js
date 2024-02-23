@@ -199,41 +199,52 @@ export const skills = [
 ];
 
 export const experiences = [
-  // {
-  //   id: 0,
-  //   img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/neurobit.jpeg?alt=media&token=1cacbb7b-e5ea-4efb-9b3d-f5a31b9564ad",
-  //   role: "Frontend Engineer Intern",
-  //   company: "Neurobit",
-  //   date: "June 2023 - Nov 2023",
-  //   desc: "Enhanced user experiences on Neurobit PSG & Hybrid, Portals by resolving bugs & reduced load time by 40%. Built Neurobit Analytics portal using React Js with seamless interaction of REST APIs using AXIOS optimized with React Query. Refactored previous code to TypeScript, updated with new dependency and integrated Vite with Jest for Unit Testing.",
-  //   skills: [
-  //     "ReactJS",
-  //     "Redux",
-  //     "NodeJs",
-  //     "Material UI",
-  //     "HTML",
-  //     "CSS",
-  //     "JavaScript",
-  //   ],
-  //   doc: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/Screenshot%20from%202024-01-25%2022-38-31.png?alt=media&token=2785903f-1a4e-41f5-afd2-6adcfe56d058",
-  // },
-  // {
-  //   id: 1,
-  //   img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/flipr.jpeg?alt=media&token=1d72532a-45eb-4c1a-a81a-c9bed9fec543",
-  //   role: "DevOps & Fullstack Engineering Intern",
-  //   company: "Flipr Inovations Pvt. Ltd.",
-  //   date: "Aug 2023 - Oct 2023",
-  //   desc: "Built Flipr Connect Platforms using React Js integrated GraphQL with AXIOS, created High level Design and Figma design. Built Backend with GraphQL and Node JS and connected with MongoDb - Reducing API calls by 20%. Dockerized and automated with Kubernetes & Jenkins CI/CD deployed in AWS-EC2 added Prometheus & Grafana for monitoring.",
-  //   skills: [
+  {
+    id: 0,
+    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/neurobit.jpeg?alt=media&token=1cacbb7b-e5ea-4efb-9b3d-f5a31b9564ad",
+    role: "Full-Stack Softaware Developer",
+    company: "Under Proffesors of IIT MADRAS",
+    date: "Jan 2024 - Present",
+    desc: "•	GUI and FEM/FEA software for Robotics and Guided Surgery under a professor of IIT Madras. •	I am presently involved in a project overseen by a professor, which is dedicated to the development of Graphical User Interface (GUI) and Finite Element Method/Finite Element Analysis (FEM/FEA) software customized for applications in Robotics and Guided Surgery under (Prof. Dr. SRIKANTH VEDAMTAM). This endeavor involves extensive software engineering efforts aimed at improving functionality and usability within these specialized fields",
+    skills: [
+      "C++",
+      "Rust",
+      "Data Structure Algorithm",
+      "CGAL",
+    ],
+    doc: "",
+  },
+  {
+    id: 1,
+    img: "https://media.licdn.com/dms/image/D560BAQEpFtISD17BHA/company-logo_200_200/0/1705168457431?e=1717027200&v=beta&t=tyC8Dl2ufOkqTW7LmNCvObvunKKV8GCJHNkFubm5l0I",
+    role: "Frontend Development Intern",
+    company: "Bishwas Technology",
+    date: "Feb 2024 - Present",
+    desc: "•	Online internship offered in the field of Web development. •	I've been extended an online internship opportunity from BISHWAS TECHNOLOGY in Delhi, India, specializing in web development. My role primarily involves frontend development for diverse industry projects. Currently, I am immersed in this month-long internship, actively honing my skills and contributing to real-world applications."
+    ,
+    skills: [
 
-  //     "JavaScript",
-  //     "TypeScript",
-  //     "Node Js",
-  //     " Next Js",
-  //   ],
-  //   doc: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/1696514649120.jpeg?alt=media&token=e7f6757b-edfa-4138-a692-d6709eeef3e2",
-  // },
-
+      "JavaScript",
+      "TypeScript",
+      "HTML",
+      " CSS",
+    ],
+    doc: "https://drive.google.com/file/d/1G26dkZk4x-kSHuxxzTnQhDYiZQqXyvbb/view?usp=sharing",
+  },
+  {
+    id: 2,
+    img: "https://media.licdn.com/dms/image/C4E0BAQG_VhjNEXwn7A/company-logo_200_200/0/1668071415398/nss_iit_madras_logo?e=1717027200&v=beta&t=UaVMaD3ZRj5nBOKrAk_DZkMuPnQOEHfpKCsZ4iY0B-A",
+    role: "Product Developer",
+    company: "NSS of IIT MADRAS",
+    date: "Jan 2024 - Present",
+    desc: "(IDF NO:2829)-Crashworthy Cabin Design (including pilot) and Emergency Mechanisms for Army Helicopter •	The objective of this project is to enhance helicopter safety by preventing accidents. I have actively engaged in leveraging my expertise to contribute to the research and development efforts focused on two critical aspects: the Crashworthy Cabin Design, which encompasses protection for both pilots and passengers, and the implementation of Emergency Mechanisms tailored specifically for Army Helicopters. These endeavors were undertaken in collaboration with the NSS product team at IIT Madras, where our collective efforts aimed to advance safety standards within the aviation sector.",
+    skills: [
+      "Ansys",
+      "Fusion360",
+      "Solidworks",
+    ],
+    doc: "",
+  },
 
 
 
@@ -245,8 +256,8 @@ export const education = [
     img: "",
     school: "Indian Institute of Technology Madras, Chennai (TN)",
     date: "Nov 2022 - Jul 2027",
-    grade: "7.3/10",
-    desc: "",
+    grade: "7.3/10 till 3rd Semester",
+    desc: "I am presently engaged as a sophomore scholar within the esteemed confines of the Indian Institute of Technology Madras, wherein I am ardently pursuing a Dual Degree program in Engineering Design. My scholastic voyage thus far stands as a testament to my unwavering dedication, epitomized by an exemplary Cumulative Grade Point Average of 7.3 out of a possible 10. This illustrious institution serves as the crucible wherein my intellectual acumen is nurtured and refined, fostering an environment conducive to the cultivation of multifaceted competencies.",
   },
   {
     id: 1,
@@ -270,7 +281,7 @@ export const education = [
 
 export const projects = [
   {
-    id: 11,
+    id: 0,
     title: "ShoeHub Website Project",
     date: "Dec 2023 - Jan 2024",
     description:
@@ -288,6 +299,26 @@ export const projects = [
     category: "web app",
     github: "",
     webapp: "",
+  },
+  {
+    id: 1,
+    title: "TulsiVerse Full-Stack Ecommerce Project",
+    date: "Nov 2023 - Present",
+    description:
+      "",
+    image: "https://drive.google.com/file/d/1coBGs7U383kuVP_mFHKFxfFApcawZeXk/view?usp=drive_link"
+    ,
+    tags: [
+      "React Js",
+      "Node Js",
+      "Firebase",
+      "Express Js",
+      "Redux",
+
+    ],
+    category: "web app",
+    github: "",
+    webapp: "https://tulsi-verse.vercel.app/",
   },
 
   // {
