@@ -286,26 +286,26 @@ export const education = [
 ];
 
 export const projects = [
-  {
-    id: 0,
-    title: "ShoeHub Website Project",
-    date: "Dec 2023 - Jan 2024",
-    description:
-      "",
-    image:
-      "",
-    tags: [
-      "React Js",
-      "PostgressSQL",
-      "NextJs",
-      "Strapi",
-      "Redux",
+  // {
+  //   id: 0,
+  //   title: "ShoeHub Website Project",
+  //   date: "Dec 2023 - Jan 2024",
+  //   description:
+  //     "",
+  //   image:
+  //     "",
+  //   tags: [
+  //     "React Js",
+  //     "PostgressSQL",
+  //     "NextJs",
+  //     "Strapi",
+  //     "Redux",
 
-    ],
-    category: "web app",
-    github: "",
-    webapp: "",
-  },
+  //   ],
+  //   category: "web app",
+  //   github: "",
+  //   webapp: "",
+  // },
   {
     id: 1,
     title: "TulsiVerse Full-Stack Ecommerce Project",
@@ -318,6 +318,7 @@ export const projects = [
       "React Js",
       "Node Js",
       "Firebase",
+      "Javascript",
       "Express Js",
       "Redux",
 
@@ -348,12 +349,13 @@ export const projects = [
     title: "Education LMS Website Project",
     date: "Dec 2023 - Jan 2024",
     description:
-      "",
+      "It is a comprehensive LMS Educational website featuring both client and administrative interfaces. Within the administrative section, users have the ability to purchase Courses, add them to a wishlist, and review purchased items within the My Courses section. Access to the wishlist and purchased products is restricted to authenticated users only. The website's database is seamlessly integrated with Firebase Firestore. Administrators are empowered to update Course listings, view Courses, and perform actions such as updating or deleting Courses. Additionally, administrators can access ordered data, including user details from sign-up, and facilitate payment integration. The website demonstrates successful implementation of Create, Read, Update, and Delete (CRUD) operations, along with secure payment processing.",
     image:
       "https://res.cloudinary.com/dh4adw5o7/image/upload/v1708967767/Portfolio%20Content/en5lubnfbnctb01fcfgs.png",
     tags: [
       "React Js",
       "Node Js",
+      "Javascript",
       "Firebase",
       "Express Js",
       "Redux",
@@ -362,6 +364,26 @@ export const projects = [
     category: "web app",
     github: "https://github.com/KaranSingh52ED/Ultimate-Jee",
     webapp: "https://ultimate-jee.vercel.app/",
+  },
+  {
+    id: 4,
+    title: "Portfolio Website Project",
+    date: "Jan 2024 - Feb 2024",
+    description:
+      "",
+    image:
+      "https://res.cloudinary.com/dh4adw5o7/image/upload/v1708968941/Portfolio%20Content/m0emsjrhae5krbiuvana.png",
+    tags: [
+      "React Js",
+      "Node Js",
+      "Javascript",
+      "Firebase",
+      "Cloudinary Js",
+
+    ],
+    category: "web app",
+    github: "https://github.com/KaranSingh52ED/MyPortFolio",
+    webapp: "https://kabira-portfolio.vercel.app/",
   },
 
   // {
