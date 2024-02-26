@@ -385,6 +385,26 @@ export const projects = [
     github: "https://github.com/KaranSingh52ED/MyPortFolio",
     webapp: "https://kabira-portfolio.vercel.app/",
   },
+  {
+    id: 4,
+    title: "Ecommerce-2023 Website Project",
+    date: "Jun 2023 - Aug 2023",
+    description:
+      "I have successfully developed a fully operational e-commerce website utilizing HTML, CSS, and JavaScript, incorporating a robust frontend design. The website boasts seamless functionality, intuitive navigation, and an engaging user experience. By leveraging my expertise in web development and design principles, I've created a platform that not only meets but exceeds industry standards, ensuring optimal performance and customer satisfaction.",
+    image:
+      "https://res.cloudinary.com/dh4adw5o7/image/upload/v1708970772/Portfolio%20Content/h3olgf6e9lrsgavpusra.png",
+    tags: [
+      "Frontend",
+      "HTML",
+      "CSS",
+      "JAVASCRIPT",
+      "Flexbox CSS"
+
+    ],
+    category: "web app",
+    github: "",
+    webapp: "https://ecommerce-2023-puce.vercel.app/",
+  },
 
   // {
   //   id: 2,
@@ -400,13 +420,13 @@ export const projects = [
   //   webapp: "https://brain-tumor.netlify.app/",
   //   member: [
   //     {
-  //       name: "Rishav Chanda",
+  //       name: "Vishal",
   //       img: "https://avatars.githubusercontent.com/u/64485885?v=4",
   //       linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
   //       github: "https://github.com/rishavchanda/",
   //     },
   //     {
-  //       name: "Upasana Chaudhuri",
+  //       name: "Karan",
   //       img: "https://avatars.githubusercontent.com/u/100614635?v=4",
   //       linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
   //       github: "https://github.com/upasana0710",
