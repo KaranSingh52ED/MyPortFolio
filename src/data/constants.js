@@ -326,6 +326,23 @@ export const projects = [
     github: "",
     webapp: "https://tulsi-verse.vercel.app/",
   },
+  {
+    id: 2,
+    title: "Calculator Project",
+    date: "Feb 26 2024",
+    description:
+      "This is a Fully functional and fully resonsive Calculator Project. In which many languages are used as HTML, CSS , JAVASCRIPT. So it is the simple and Fully working code for Calculator Project.",
+    image: ""
+    ,
+    tags: [
+      "HTML",
+      "CSS",
+      "JAVASCRIPT",
+    ],
+    category: "web app",
+    github: "",
+    webapp: "https://calculator-karan-singh.vercel.app/",
+  },
 
   // {
   //   id: 2,
