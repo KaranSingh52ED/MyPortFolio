@@ -343,6 +343,26 @@ export const projects = [
     github: "https://github.com/KaranSingh52ED/BISHWASTECHNOLOGY",
     webapp: "https://calculator-karan-singh.vercel.app/",
   },
+  {
+    id: 3,
+    title: "Education LMS Website Project",
+    date: "Dec 2023 - Jan 2024",
+    description:
+      "",
+    image:
+      "https://res.cloudinary.com/dh4adw5o7/image/upload/v1708967767/Portfolio%20Content/en5lubnfbnctb01fcfgs.png",
+    tags: [
+      "React Js",
+      "Node Js",
+      "Firebase",
+      "Express Js",
+      "Redux",
+
+    ],
+    category: "web app",
+    github: "https://github.com/KaranSingh52ED/Ultimate-Jee",
+    webapp: "https://ultimate-jee.vercel.app/",
+  },
 
   // {
   //   id: 2,
