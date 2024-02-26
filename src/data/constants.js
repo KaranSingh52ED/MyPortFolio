@@ -312,7 +312,7 @@ export const projects = [
     date: "Nov 2023 - Present",
     description:
       "",
-    image: "https://drive.google.com/file/d/1coBGs7U383kuVP_mFHKFxfFApcawZeXk/view?usp=drive_link"
+    image: "https://res.cloudinary.com/dh4adw5o7/image/upload/v1708947513/Portfolio%20Content/lpbmwzucffblktdx3bzb.png"
     ,
     tags: [
       "React Js",
@@ -332,7 +332,7 @@ export const projects = [
     date: "Feb 26 2024",
     description:
       "This is a Fully functional and fully resonsive Calculator Project. In which many languages are used as HTML, CSS , JAVASCRIPT. So it is the simple and Fully working code for Calculator Project.",
-    image: ""
+    image: "https://res.cloudinary.com/dh4adw5o7/image/upload/v1708947513/Portfolio%20Content/e57nb9weawyruepgidpg.png"
     ,
     tags: [
       "HTML",
@@ -340,7 +340,7 @@ export const projects = [
       "JAVASCRIPT",
     ],
     category: "web app",
-    github: "",
+    github: "https://github.com/KaranSingh52ED/BISHWASTECHNOLOGY",
     webapp: "https://calculator-karan-singh.vercel.app/",
   },
 
