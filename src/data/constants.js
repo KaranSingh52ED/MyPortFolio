@@ -332,7 +332,7 @@ export const projects = [
     title: "Calculator Project",
     date: "Feb 26 2024",
     description:
-      "This is a Fully functional and fully resonsive Calculator Project. In which many languages are used as HTML, CSS , JAVASCRIPT. So it is the simple and Fully working code for Calculator Project.",
+      "This project is a fully functional and responsive calculator designed for effortless data calculation with an exceptional user interface. It employs various languages such as HTML, CSS, and JavaScript to ensure simplicity and efficiency. With its straightforward implementation, this calculator project offers a seamless user experience, making it an ideal choice for diverse computing needs.",
     image: "https://res.cloudinary.com/dh4adw5o7/image/upload/v1708947513/Portfolio%20Content/e57nb9weawyruepgidpg.png"
     ,
     tags: [
