@@ -405,6 +405,25 @@ export const projects = [
     github: "",
     webapp: "https://ecommerce-2023-puce.vercel.app/",
   },
+  {
+    id: 5,
+    title: "ToDo List Web Project",
+    date: "Feb 27 2024",
+    description:
+      "This project presents a fully functional and responsive Todo List Web Application. It offers the capability to add tasks with titles, detailed descriptions, and dates. Users can conveniently delete and update task entries according to their requirements, and mark tasks as completed. The implementation utilizes several languages including HTML, CSS, and JavaScript. Hence, it serves as a straightforward and comprehensive codebase for a Todo List Project.",
+
+    image: "https://res.cloudinary.com/dh4adw5o7/image/upload/v1709039449/Portfolio%20Content/mt61gf2wttd90d6porvi.png"
+    ,
+    tags: [
+      "HTML",
+      "CSS",
+      "JAVASCRIPT",
+    ],
+    category: "web app",
+    github: "https://github.com/KaranSingh52ED/To-Do-LIst-Web-App",
+    webapp: "https://to-do-list-webapp-kabira.vercel.app/",
+  },
+
 
   // {
   //   id: 2,
