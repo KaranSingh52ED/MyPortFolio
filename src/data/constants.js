@@ -3,14 +3,14 @@ export const Bio = {
   roles: [
     "Full Stack Developer",
     "Software Developer",
-    "UI/UX Designer",
     "Programmer",
+    "UI/UX Designer",
   ],
   description:
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/KaranSingh52ED",
   resume:
-    "https://drive.google.com/file/d/1wN4xfsCrx2QM1iC6EYRsHrVkhxfD-R1E/view?usp=drive_link",
+    "https://drive.google.com/file/d/15x2522wB3A9FfQDLMF1ua5Kh7NTm27QH/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/karan-singh-875797260/",
   twitter: "",
   insta: "",
@@ -423,7 +423,26 @@ export const projects = [
     github: "https://github.com/KaranSingh52ED/To-Do-LIst-Web-App",
     webapp: "https://to-do-list-webapp-kabira.vercel.app/",
   },
+  {
+    id: 6,
+    title: "Flawless Contact Page: Effortless Google Sheet Integration",
+    date: "Feb 27 2024",
+    description:
+      "This project represents a comprehensive and fully operational web application specifically designed for a contact page. It features a robust functionality that enables users to effortlessly input and store essential information, including their name, contact number, email address, and message, into a Google Sheet with seamless efficiency. Upon submission of the form, a prompt in the form of a popup notification will promptly confirm the successful submission of the form, ensuring a smooth user experience.",
 
+    image: "https://res.cloudinary.com/dh4adw5o7/image/upload/v1710089968/Portfolio%20Content/aezcmpao0pge0mfudw1l.png"
+    ,
+    tags: [
+      "React Js",
+      "Rest API",
+      "JAVASCRIPT",
+      "Tailwind CSS",
+      "Fetching API"
+    ],
+    category: "web app",
+    github: "https://github.com/KaranSingh52ED/Contact-FormWith-Google-Sheet",
+    webapp: "https://contact-form-with-google-sheet.vercel.app/",
+  },
 
   // {
   //   id: 2,
