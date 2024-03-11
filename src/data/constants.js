@@ -205,7 +205,7 @@ export const experiences = [
     role: "Full-Stack Softaware Developer",
     company: "Under professor of IIT MADRAS  ",
     date: "Jan 2024 - Present",
-    desc: "•	GUI and FEM/FEA software for Robotics and Guided Surgery under a professor of IIT Madras. •	I am presently involved in a project overseen by a professor, which is dedicated to the development of Graphical User Interface (GUI) and Finite Element Method/Finite Element Analysis (FEM/FEA) software customized for applications in Robotics and Guided Surgery under (Prof. Dr. SRIKANTH VEDAMTAM). This endeavor involves extensive software engineering efforts aimed at improving functionality and usability within these specialized fields",
+    desc: "•	GUI and FEM/FEA software for Robotics and Guided Surgery under a professor of IIT Madras. •	I am presently involved in a project overseen by a professor, which is dedicated to the development of Graphical User Interface (GUI) and Finite Element Method/Finite Element Analysis (FEM/FEA) software customized for applications in Robotics and Guided Surgery under (Prof. Dr. SRIKANTH VEDANTAM). This endeavor involves extensive software engineering efforts aimed at improving functionality and usability within these specialized fields",
     skills: [
       "C++",
       "Rust",
