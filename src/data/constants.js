@@ -234,7 +234,7 @@ export const experiences = [
       "Flexbox",
       "DOM"
     ],
-    doc: "https://drive.google.com/file/d/1G26dkZk4x-kSHuxxzTnQhDYiZQqXyvbb/view?usp=sharing",
+    doc: "",
   },
   {
     id: 2,
