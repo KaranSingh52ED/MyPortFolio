@@ -201,7 +201,7 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/neurobit.jpeg?alt=media&token=1cacbb7b-e5ea-4efb-9b3d-f5a31b9564ad",
+    img: "https://media.licdn.com/dms/image/C4D0BAQGqbSuxjLqtWQ/company-logo_200_200/0/1659504006681/reachiitm_logo?e=1718236800&v=beta&t=EbZngkbhwqJycype0MsAKdUlr-JRvmH_X-iyvNFaoDw",
     role: "Full-Stack Softaware Developer",
     company: "Under professor of IIT MADRAS  ",
     date: "Jan 2024 - Present",
@@ -241,7 +241,7 @@ export const experiences = [
     img: "https://media.licdn.com/dms/image/C4E0BAQG_VhjNEXwn7A/company-logo_200_200/0/1668071415398/nss_iit_madras_logo?e=1717027200&v=beta&t=UaVMaD3ZRj5nBOKrAk_DZkMuPnQOEHfpKCsZ4iY0B-A",
     role: "Product Developer",
     company: "NSS of IIT MADRAS",
-    date: "Jan 2024 - Present",
+    date: "Nov 2023 - Present",
     desc: "(IDF NO:2829)-Crashworthy Cabin Design (including pilot) and Emergency Mechanisms for Army Helicopter •	The objective of this project is to enhance helicopter safety by preventing accidents. I have actively engaged in leveraging my expertise to contribute to the research and development efforts focused on two critical aspects: the Crashworthy Cabin Design, which encompasses protection for both pilots and passengers, and the implementation of Emergency Mechanisms tailored specifically for Army Helicopters. These endeavors were undertaken in collaboration with the NSS product team at IIT Madras, where our collective efforts aimed to advance safety standards within the aviation sector.",
     skills: [
       "Ansys",
@@ -251,7 +251,26 @@ export const experiences = [
     ],
     doc: "",
   },
+  {
+    id: 3,
+    img: "https://media.licdn.com/dms/image/C4D0BAQF97Cbv5ALLzA/company-logo_200_200/0/1648277837820/suvidha_foundation_logo?e=1718236800&v=beta&t=eSA5c0BzNW6fSyBkMs4RAF8durKVQcN1cyWa4snfaRw",
+    role: "Product Developer",
+    company: "Suvidha Foundation",
+    date: "Mar 2024 - Present",
+    desc: "I am currently immersed in a one-month internship, having accepted an offer letter for the position. My focus lies in applying my expertise in Full Stack Web Development, with a special emphasis on utilizing the MERN Stack alongside JavaScript, Tailwind CSS, Cascading Style Sheets (CSS), and User Experience (UX) principles. Within this role, I am actively contributing to the ongoing development of the organization's website, ensuring its functionality and user interface meet the highest standards.",
+    skills: [
+      "MERN Stack",
+      "Full Stack Web Development",
+      "Ui/Ux Design",
+      "tailwind CSS",
+      "React Js",
+      "Node Js",
+      "MongoDB",
+      "Express Js",
 
+    ],
+    doc: "",
+  },
 
 
 ];
@@ -271,7 +290,7 @@ export const education = [
     school: "GSV Inter Collage, Mathura (UP)",
     date: " 2019 - Apr 2021",
     grade: "79.6%",
-    desc: "I completed my class 12 high school education at GSV Inter Collage, Mathura.",
+    desc: "I have accomplished my Class 12 Intermediate education with distinction at GSV Inter College in Mathura. Throughout this academic journey, I actively engaged in rigorous coursework, demonstrating a strong commitment to academic excellence. The comprehensive education and diverse learning experiences at GSV Inter College have equipped me with valuable skills and knowledge, laying a solid foundation for my future pursuits in both academic and professional realms. I am grateful for the supportive environment that fostered my intellectual growth and personal development during my time at GSV Inter College.",
     degree: "12Th (XII) - Uttar Pradesh Board",
   },
   {
@@ -280,7 +299,7 @@ export const education = [
     school: "Pt. Narayan Inter Collage, Mathura (UP)",
     date: "2018 - 2019",
     grade: "80.83%",
-    desc: "I completed my class 10 education at Pt. Narayan Inter Collage, Mathura.",
+    desc: "I successfully completed my Class 10 education at Pt. Narayan Inter College in Mathura, achieving commendable results. Throughout this academic journey, I actively engaged in a rigorous curriculum, fostering a solid academic foundation and honing essential skills. The enriching learning environment at Pt. Narayan Inter College provided me with valuable experiences, shaping my intellectual growth and personal development. I am grateful for the opportunities and support that have prepared me for future academic and professional endeavors.",
     degree: "10Th (X)- Uttar Pradesh Board",
   },
 ];
