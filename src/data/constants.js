@@ -254,8 +254,8 @@ export const experiences = [
   {
     id: 3,
     img: "https://media.licdn.com/dms/image/C4D0BAQF97Cbv5ALLzA/company-logo_200_200/0/1648277837820/suvidha_foundation_logo?e=1718236800&v=beta&t=eSA5c0BzNW6fSyBkMs4RAF8durKVQcN1cyWa4snfaRw",
-    role: "Product Developer",
-    company: "Suvidha Foundation",
+    role: " Full Stack Web Development Intern",
+    company: "Suvidha Foundation (Suvidha Mahila Mandal)",
     date: "Mar 2024 - Present",
     desc: "I am currently immersed in a one-month internship, having accepted an offer letter for the position. My focus lies in applying my expertise in Full Stack Web Development, with a special emphasis on utilizing the MERN Stack alongside JavaScript, Tailwind CSS, Cascading Style Sheets (CSS), and User Experience (UX) principles. Within this role, I am actively contributing to the ongoing development of the organization's website, ensuring its functionality and user interface meet the highest standards.",
     skills: [
