@@ -326,7 +326,7 @@ export const projects = [
 
     ],
     category: "web app",
-    github: "",
+    github: "https://github.com/KaranSingh52ED/React_News_App",
     webapp: "https://react-news-app-ebon.vercel.app/",
   },
   {
