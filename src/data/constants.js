@@ -310,9 +310,9 @@ export const projects = [
     title: "Fullstack News Website Project",
     date: "Mar 2024 - Apr 2024",
     description:
-      "",
+      "Key features include the ability for users to register and authenticate, enabling them to create news articles within selected categories. Each article allows for the inclusion of descriptive content alongside media files. Upon submission, articles are published and can be featured in the trending section if designated as such during creation. Furthermore, the platform facilitates universal accessibility, allowing all users to view published articles. Additionally, creators retain the capability to delete their respective articles as needed, thereby ensuring content management integrity. The website is designed to be responsive, ensuring optimal user experience across various devices and screen sizes. The project is built using React Js, Node Js, and Firebase Firestore, with Redux employed for state management. The user interface is styled using Tailwind CSS and SCSS, ensuring a visually appealing and intuitive design. The project is hosted on Vercel, providing seamless deployment and accessibility.",
     image:
-      "",
+      "https://res.cloudinary.com/dh4adw5o7/image/upload/v1712049053/Portfolio%20Content/rs0haoluy1p2ax4h88iv.png",
     tags: [
       "React Js",
       "React Hooks",
