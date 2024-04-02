@@ -305,26 +305,30 @@ export const education = [
 ];
 
 export const projects = [
-  // {
-  //   id: 0,
-  //   title: "ShoeHub Website Project",
-  //   date: "Dec 2023 - Jan 2024",
-  //   description:
-  //     "",
-  //   image:
-  //     "",
-  //   tags: [
-  //     "React Js",
-  //     "PostgressSQL",
-  //     "NextJs",
-  //     "Strapi",
-  //     "Redux",
+  {
+    id: 0,
+    title: "Fullstack News Website Project",
+    date: "Mar 2024 - Apr 2024",
+    description:
+      "",
+    image:
+      "",
+    tags: [
+      "React Js",
+      "React Hooks",
+      "firestore",
+      "firebase",
+      "Redux",
+      "Node Js",
+      "Tailwind CSS",
+      "Javascript",
+      "SCSS",
 
-  //   ],
-  //   category: "web app",
-  //   github: "",
-  //   webapp: "",
-  // },
+    ],
+    category: "web app",
+    github: "",
+    webapp: "https://react-news-app-ebon.vercel.app/",
+  },
   {
     id: 1,
     title: "TulsiVerse Full-Stack Ecommerce Project",
