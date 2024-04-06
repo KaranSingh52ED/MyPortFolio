@@ -466,6 +466,29 @@ export const projects = [
     github: "https://github.com/KaranSingh52ED/Contact-FormWith-Google-Sheet",
     webapp: "https://contact-form-with-google-sheet.vercel.app/",
   },
+  {
+    id: 7,
+    title: "Suvidha Overseas Organisation Website Project",
+    date: "Mar 2024 - Apr 2024",
+    description:
+      "",
+    image:
+      "https://res.cloudinary.com/dh4adw5o7/image/upload/v1712410191/Portfolio%20Content/nlpiugsbd5bxcwluqlsb.png",
+    tags: [
+      "React Js",
+      "React Hooks",
+      
+      "Redux",
+      "Node Js",
+      "Tailwind CSS",
+      "Javascript",
+      "CSS",
+
+    ],
+    category: "web app",
+    github: "https://github.com/KaranSingh52ED/SuvidhaOverseas",
+    webapp: "https://suvidha-overseas.vercel.app/",
+  },
 
   // {
   //   id: 2,
