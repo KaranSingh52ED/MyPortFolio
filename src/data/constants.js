@@ -257,7 +257,7 @@ export const experiences = [
 export const education = [
   {
     id: 0,
-    img: "",
+    img: "https://media.licdn.com/dms/image/C4E07AQHg2-IKbZNPmg/group-logo_image-shrink_92x92/0/1631004973999?e=1714161600&v=beta&t=lqHHOxGMovRU8y4GOAsstembow0ITgVfLE-NpK7LVqA",
     school: "Indian Institute of Technology Madras, Chennai (TN)",
     date: "Nov 2022 - Jul 2027",
     grade: "7.3/10 till 3rd Semester",
@@ -285,33 +285,11 @@ export const education = [
 
 export const projects = [
   {
-    id: 0,
-    title: "Fullstack News Website Project",
-    date: "Mar 2024 - Apr 2024",
-    description:
-      "Key features include the ability for users to register and authenticate, enabling them to create news articles within selected categories. Each article allows for the inclusion of descriptive content alongside media files. Upon submission, articles are published and can be featured in the trending section if designated as such during creation. Furthermore, the platform facilitates universal accessibility, allowing all users to view published articles. Additionally, creators retain the capability to delete their respective articles as needed, thereby ensuring content management integrity. The website is designed to be responsive, ensuring optimal user experience across various devices and screen sizes. The project is built using React Js, Node Js, and Firebase Firestore, with Redux employed for state management. The user interface is styled using Tailwind CSS and SCSS, ensuring a visually appealing and intuitive design. The project is hosted on Vercel, providing seamless deployment and accessibility.",
-    image:
-      "https://res.cloudinary.com/dh4adw5o7/image/upload/v1712049053/Portfolio%20Content/rs0haoluy1p2ax4h88iv.png",
-    tags: [
-      "React Js",
-      "React Hooks",
-      "firestore",
-      "firebase",
-      "Redux",
-      "Node Js",
-      "Tailwind CSS",
-      "Javascript",
-      "SCSS",
-    ],
-    category: "web app",
-    github: "https://github.com/KaranSingh52ED/React_News_App",
-    webapp: "https://react-news-app-ebon.vercel.app/",
-  },
-  {
     id: 1,
     title: "TulsiVerse Full-Stack Ecommerce Project",
     date: "Nov 2023 - Present",
-    description: "",
+    description:
+      "TulsiVerse is an e-commerce platform that offers a wide range of products, including Mala, Lockets or pendants, and Pooja/Worship accessories. The platform features a user-friendly interface that enables customers to browse products, add them to their cart, and complete purchases. Users can create accounts, view order history, and manage their profiles. Administrators have access to a dashboard where they can manage products, categories, and orders. The platform is built using React Js, Node Js, and Firebase Firestore, with Redux employed for state management. The user interface is styled using Tailwind CSS, ensuring a visually appealing and intuitive design. The project is hosted on Vercel, providing seamless deployment and accessibility. TulsiVerse is an ideal solution for individuals seeking a comprehensive e-commerce platform that offers a diverse range of products and a seamless user experience.",
     image:
       "https://res.cloudinary.com/dh4adw5o7/image/upload/v1708947513/Portfolio%20Content/lpbmwzucffblktdx3bzb.png",
     tags: [
@@ -326,98 +304,32 @@ export const projects = [
     github: "",
     webapp: "https://tulsi-verse.vercel.app/",
   },
+
   {
     id: 2,
-    title: "Calculator Project",
+    title: "MarkNoteS Project",
     date: "Feb 26 2024",
+
     description:
-      "This project is a fully functional and responsive calculator designed for effortless data calculation with an exceptional user interface. It employs various languages such as HTML, CSS, and JavaScript to ensure simplicity and efficiency. With its straightforward implementation, this calculator project offers a seamless user experience, making it an ideal choice for diverse computing needs.",
+      "MarkNotes is a comprehensive note-taking application that allows users to create, edit, and delete notes. The application features a user-friendly interface that enables users to organize notes by category, add titles, and include detailed descriptions. Users can easily manage their notes by marking them as favorites, which are then displayed in a separate section. MarkNotes is an ideal solution for individuals seeking a simple and efficient note-taking application.",
     image:
-      "https://res.cloudinary.com/dh4adw5o7/image/upload/v1708947513/Portfolio%20Content/e57nb9weawyruepgidpg.png",
-    tags: ["HTML", "CSS", "JAVASCRIPT"],
-    category: "web app",
-    github: "https://github.com/KaranSingh52ED/BISHWASTECHNOLOGY",
-    webapp: "https://calculator-karan-singh.vercel.app/",
-  },
-  {
-    id: 3,
-    title: "Education LMS Website Project",
-    date: "Dec 2023 - Jan 2024",
-    description:
-      "It is a comprehensive LMS Educational website featuring both client and administrative interfaces. Within the administrative section, users have the ability to purchase Courses, add them to a wishlist, and review purchased items within the My Courses section. Access to the wishlist and purchased products is restricted to authenticated users only. The website's database is seamlessly integrated with Firebase Firestore. Administrators are empowered to update Course listings, view Courses, and perform actions such as updating or deleting Courses. Additionally, administrators can access ordered data, including user details from sign-up, and facilitate payment integration. The website demonstrates successful implementation of Create, Read, Update, and Delete (CRUD) operations, along with secure payment processing.",
-    image:
-      "https://res.cloudinary.com/dh4adw5o7/image/upload/v1708967767/Portfolio%20Content/en5lubnfbnctb01fcfgs.png",
+      "https://res.cloudinary.com/dh4adw5o7/image/upload/v1713554841/Portfolio%20Content/ptjuj73yscrjzmvinq1y.png",
     tags: [
       "React Js",
+      "Typescript",
+      "MongoDB",
       "Node Js",
       "Javascript",
-      "Firebase",
+      "Tailwind CSS",
       "Express Js",
       "Redux",
+      "MERNG Stack",
     ],
     category: "web app",
-    github: "https://github.com/KaranSingh52ED/Ultimate-Jee",
-    webapp: "https://ultimate-jee.vercel.app/",
+    github: "https://github.com/KaranSingh52ED/mern-note_taking-web",
+    webapp: "https://mern-note-taking-web.vercel.app/",
   },
-  {
-    id: 4,
-    title: "Portfolio Website Project",
-    date: "Jan 2024 - Feb 2024",
-    description: "",
-    image:
-      "https://res.cloudinary.com/dh4adw5o7/image/upload/v1708968941/Portfolio%20Content/m0emsjrhae5krbiuvana.png",
-    tags: ["React Js", "Node Js", "Javascript", "Firebase", "Cloudinary Js"],
-    category: "web app",
-    github: "https://github.com/KaranSingh52ED/MyPortFolio",
-    webapp: "https://kabira-portfolio.vercel.app/",
-  },
-  {
-    id: 4,
-    title: "Ecommerce-2023 Website Project",
-    date: "Jun 2023 - Aug 2023",
-    description:
-      "I have successfully developed a fully operational e-commerce website utilizing HTML, CSS, and JavaScript, incorporating a robust frontend design. The website boasts seamless functionality, intuitive navigation, and an engaging user experience. By leveraging my expertise in web development and design principles, I've created a platform that not only meets but exceeds industry standards, ensuring optimal performance and customer satisfaction.",
-    image:
-      "https://res.cloudinary.com/dh4adw5o7/image/upload/v1708970772/Portfolio%20Content/h3olgf6e9lrsgavpusra.png",
-    tags: ["Frontend", "HTML", "CSS", "JAVASCRIPT", "Flexbox CSS"],
-    category: "web app",
-    github: "",
-    webapp: "https://ecommerce-2023-puce.vercel.app/",
-  },
-  {
-    id: 5,
-    title: "ToDo List Web Project",
-    date: "Feb 27 2024",
-    description:
-      "This project presents a fully functional and responsive Todo List Web Application. It offers the capability to add tasks with titles, detailed descriptions, and dates. Users can conveniently delete and update task entries according to their requirements, and mark tasks as completed. The implementation utilizes several languages including HTML, CSS, and JavaScript. Hence, it serves as a straightforward and comprehensive codebase for a Todo List Project.",
 
-    image:
-      "https://res.cloudinary.com/dh4adw5o7/image/upload/v1709039449/Portfolio%20Content/mt61gf2wttd90d6porvi.png",
-    tags: ["HTML", "CSS", "JAVASCRIPT"],
-    category: "web app",
-    github: "https://github.com/KaranSingh52ED/To-Do-LIst-Web-App",
-    webapp: "https://to-do-list-webapp-kabira.vercel.app/",
-  },
-  {
-    id: 6,
-    title: "Flawless Contact Page: Effortless Google Sheet Integration",
-    date: "Feb 27 2024",
-    description:
-      "This project represents a comprehensive and fully operational web application specifically designed for a contact page. It features a robust functionality that enables users to effortlessly input and store essential information, including their name, contact number, email address, and message, into a Google Sheet with seamless efficiency. Upon submission of the form, a prompt in the form of a popup notification will promptly confirm the successful submission of the form, ensuring a smooth user experience.",
-
-    image:
-      "https://res.cloudinary.com/dh4adw5o7/image/upload/v1710089968/Portfolio%20Content/aezcmpao0pge0mfudw1l.png",
-    tags: [
-      "React Js",
-      "Rest API",
-      "JAVASCRIPT",
-      "Tailwind CSS",
-      "Fetching API",
-    ],
-    category: "web app",
-    github: "https://github.com/KaranSingh52ED/Contact-FormWith-Google-Sheet",
-    webapp: "https://contact-form-with-google-sheet.vercel.app/",
-  },
   {
     id: 7,
     title: "Suvidha Overseas Organisation Website Project",
@@ -452,7 +364,7 @@ export const projects = [
       "React",
       "Javascript",
       "3D Design Elements",
-      
+
       "CSS",
 
       "spline-3d",
@@ -476,6 +388,123 @@ export const projects = [
         github: "https://github.com/ProPrak01",
       },
     ],
+  },
+  {
+    id: 4,
+    title: "Portfolio Website Project",
+    date: "Jan 2024 - Feb 2024",
+    description: "",
+    image:
+      "https://res.cloudinary.com/dh4adw5o7/image/upload/v1708968941/Portfolio%20Content/m0emsjrhae5krbiuvana.png",
+    tags: ["React Js", "Node Js", "Javascript", "Firebase", "Cloudinary Js"],
+    category: "web app",
+    github: "https://github.com/KaranSingh52ED/MyPortFolio",
+    webapp: "https://kabira-portfolio.vercel.app/",
+  },
+  {
+    id: 0,
+    title: "Fullstack News Website Project",
+    date: "Mar 2024 - Apr 2024",
+    description:
+      "Key features include the ability for users to register and authenticate, enabling them to create news articles within selected categories. Each article allows for the inclusion of descriptive content alongside media files. Upon submission, articles are published and can be featured in the trending section if designated as such during creation. Furthermore, the platform facilitates universal accessibility, allowing all users to view published articles. Additionally, creators retain the capability to delete their respective articles as needed, thereby ensuring content management integrity. The website is designed to be responsive, ensuring optimal user experience across various devices and screen sizes. The project is built using React Js, Node Js, and Firebase Firestore, with Redux employed for state management. The user interface is styled using Tailwind CSS and SCSS, ensuring a visually appealing and intuitive design. The project is hosted on Vercel, providing seamless deployment and accessibility.",
+    image:
+      "https://res.cloudinary.com/dh4adw5o7/image/upload/v1712049053/Portfolio%20Content/rs0haoluy1p2ax4h88iv.png",
+    tags: [
+      "React Js",
+      "React Hooks",
+      "firestore",
+      "firebase",
+      "Redux",
+      "Node Js",
+      "Tailwind CSS",
+      "Javascript",
+      "SCSS",
+    ],
+    category: "web app",
+    github: "https://github.com/KaranSingh52ED/React_News_App",
+    webapp: "https://react-news-app-ebon.vercel.app/",
+  },
+  {
+    id: 5,
+    title: "Ecommerce-2023 Website Project",
+    date: "Jun 2023 - Aug 2023",
+    description:
+      "I have successfully developed a fully operational e-commerce website utilizing HTML, CSS, and JavaScript, incorporating a robust frontend design. The website boasts seamless functionality, intuitive navigation, and an engaging user experience. By leveraging my expertise in web development and design principles, I've created a platform that not only meets but exceeds industry standards, ensuring optimal performance and customer satisfaction.",
+    image:
+      "https://res.cloudinary.com/dh4adw5o7/image/upload/v1708970772/Portfolio%20Content/h3olgf6e9lrsgavpusra.png",
+    tags: ["Frontend", "HTML", "CSS", "JAVASCRIPT", "Flexbox CSS"],
+    category: "web app",
+    github: "",
+    webapp: "https://ecommerce-2023-puce.vercel.app/",
+  },
+  {
+    id: 3,
+    title: "Education LMS Website Project",
+    date: "Dec 2023 - Jan 2024",
+    description:
+      "It is a comprehensive LMS Educational website featuring both client and administrative interfaces. Within the administrative section, users have the ability to purchase Courses, add them to a wishlist, and review purchased items within the My Courses section. Access to the wishlist and purchased products is restricted to authenticated users only. The website's database is seamlessly integrated with Firebase Firestore. Administrators are empowered to update Course listings, view Courses, and perform actions such as updating or deleting Courses. Additionally, administrators can access ordered data, including user details from sign-up, and facilitate payment integration. The website demonstrates successful implementation of Create, Read, Update, and Delete (CRUD) operations, along with secure payment processing.",
+    image:
+      "https://res.cloudinary.com/dh4adw5o7/image/upload/v1708967767/Portfolio%20Content/en5lubnfbnctb01fcfgs.png",
+    tags: [
+      "React Js",
+      "Node Js",
+      "Javascript",
+      "Firebase",
+      "Express Js",
+      "Redux",
+    ],
+    category: "web app",
+    github: "https://github.com/KaranSingh52ED/Ultimate-Jee",
+    webapp: "https://ultimate-jee.vercel.app/",
+  },
+  {
+    id: 6,
+    title: "ToDo List Web Project",
+    date: "Feb 27 2024",
+    description:
+      "This project presents a fully functional and responsive Todo List Web Application. It offers the capability to add tasks with titles, detailed descriptions, and dates. Users can conveniently delete and update task entries according to their requirements, and mark tasks as completed. The implementation utilizes several languages including HTML, CSS, and JavaScript. Hence, it serves as a straightforward and comprehensive codebase for a Todo List Project.",
+
+    image:
+      "https://res.cloudinary.com/dh4adw5o7/image/upload/v1709039449/Portfolio%20Content/mt61gf2wttd90d6porvi.png",
+    tags: ["HTML", "CSS", "JAVASCRIPT"],
+    category: "web app",
+    github: "https://github.com/KaranSingh52ED/To-Do-LIst-Web-App",
+    webapp: "https://to-do-list-webapp-kabira.vercel.app/",
+  },
+  {
+    id: 7,
+    title: "Flawless Contact Page: Effortless Google Sheet Integration",
+    date: "Feb 27 2024",
+    description:
+      "This project represents a comprehensive and fully operational web application specifically designed for a contact page. It features a robust functionality that enables users to effortlessly input and store essential information, including their name, contact number, email address, and message, into a Google Sheet with seamless efficiency. Upon submission of the form, a prompt in the form of a popup notification will promptly confirm the successful submission of the form, ensuring a smooth user experience.",
+
+    image:
+      "https://res.cloudinary.com/dh4adw5o7/image/upload/v1710089968/Portfolio%20Content/aezcmpao0pge0mfudw1l.png",
+    tags: [
+      "React Js",
+      "Rest API",
+      "JAVASCRIPT",
+      "Tailwind CSS",
+      "Fetching API",
+    ],
+    category: "web app",
+    github: "https://github.com/KaranSingh52ED/Contact-FormWith-Google-Sheet",
+    webapp: "https://contact-form-with-google-sheet.vercel.app/",
+  },
+
+  {
+    id: 9,
+    title: "Calculator Project",
+    date: "Apr 15 2024",
+    description:
+      "This project is a fully functional and responsive calculator designed for effortless data calculation with an exceptional user interface. It employs various languages such as HTML, CSS, and JavaScript to ensure simplicity and efficiency. With its straightforward implementation, this calculator project offers a seamless user experience, making it an ideal choice for diverse computing needs.",
+    image:
+      "https://res.cloudinary.com/dh4adw5o7/image/upload/v1708947513/Portfolio%20Content/e57nb9weawyruepgidpg.png",
+
+    tags: ["REACT", "CSS", "JAVASCRIPT"],
+    category: "web app",
+    github: "https://github.com/KaranSingh52ED/BISHWASTECHNOLOGY",
+    webapp: "https://calculator-karan-singh.vercel.app/",
   },
 ];
 
