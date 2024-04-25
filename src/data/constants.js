@@ -198,6 +198,23 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
+    img: "http://nirmaan.iitm.ac.in/static/media/NIRMAAN-LOGO-NEW%201.19888417d9a517d82890.png",
+    role: "Full Stack Web Developer",
+    company: "Nirmaan IIT Madras",
+    date: "Jan 2024 - Present",
+    desc: "•	Developed a website for the organization, Nirmaan IIT Madras, using the MERN stack. •	Currently working on developing a website for the organization, Nirmaan IIT Madras, leveraging the MERN stack. This project involves the use of MongoDB, Express.js, React.js, and Node.js to create a dynamic and interactive website that caters to the needs of the organization and its members.",
+    skills: [
+      "MERN Stack",
+      "Full Stack Web Development",
+      "React Js",
+      "Node Js",
+      "MongoDB",
+      "Express Js",
+    ],
+    doc: "",
+  },
+  {
+    id: 0,
     img: "https://media.licdn.com/dms/image/C4D0BAQGqbSuxjLqtWQ/company-logo_200_200/0/1659504006681/reachiitm_logo?e=1718236800&v=beta&t=EbZngkbhwqJycype0MsAKdUlr-JRvmH_X-iyvNFaoDw",
     role: "Full-Stack Softaware Developer",
     company: "Under professor of IIT MADRAS  ",
