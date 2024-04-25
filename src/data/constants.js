@@ -307,6 +307,26 @@ export const projects = [
 
   {
     id: 2,
+    title: "Online-Mandi Full-Stack Ecommerce Project",
+    date: "Apr 2024 - Present",
+    description:
+      "TulsiVerse is an e-commerce platform that offers a wide range of crops. The platform features a user-friendly interface that enables customers to browse products, add them to their cart, and complete purchases. Users can create accounts, view order history, and manage their profiles. Administrators have access to a dashboard where they can manage products, categories, and orders. The platform is built using React Js, Node Js, and Firebase Firestore, with Redux employed for state management. The user interface is styled using Tailwind CSS, ensuring a visually appealing and intuitive design. The project is hosted on Vercel, providing seamless deployment and accessibility. TulsiVerse is an ideal solution for individuals seeking a comprehensive e-commerce platform that offers a diverse range of products and a seamless user experience.",
+    image:
+      "https://res.cloudinary.com/dh4adw5o7/image/upload/v1714064714/Portfolio%20Content/dkmfotx4zqnzw29raxvy.jpg",
+    tags: [
+      "React Js",
+      "Node Js",
+      "Firebase",
+      "Javascript",
+      "Express Js",
+      "Redux",
+    ],
+    category: "web app",
+    github: "https://github.com/KaranSingh52ED/fullstack-mandi-project",
+    webapp: "https://online-mandii.vercel.app/",
+  },
+  {
+    id: 2,
     title: "MarkNoteS Project",
     date: "Feb 26 2024",
 
