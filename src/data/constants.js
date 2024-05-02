@@ -323,6 +323,21 @@ export const projects = [
   },
 
   {
+    id: 1,
+    title: "Portfolio Project",
+    date: "Apr 2024 - Present",
+    description:
+      "It is Just a Portfolio Project. I have created this project to showcase my skills and projects. The project is built using React Js, Node Js, and Tailwind CSS. The user interface is styled using Tailwind CSS, ensuring a visually appealing and intuitive design.",
+    image:
+      "https://res.cloudinary.com/dh4adw5o7/image/upload/v1714656581/Portfolio%20Content/lsaj1quc1qneme0ztqul.png",
+    tags: ["React Js", "Node Js", "CSS", "Javascript", "Tailwind CSS"],
+    category: "web app",
+    github:
+      "https://github.com/KaranSingh52ED/insti-webops-portfolio-assignment",
+    webapp: "https://insti-webops-portfolio-assignment.vercel.app/",
+  },
+
+  {
     id: 2,
     title: "Online-Mandi Full-Stack Ecommerce Project",
     date: "Apr 2024 - Present",
@@ -387,6 +402,20 @@ export const projects = [
     category: "web app",
     github: "https://github.com/KaranSingh52ED/SuvidhaOverseas",
     webapp: "https://suvidha-overseas.vercel.app/",
+  },
+
+  {
+    id: 7,
+    title: "JSON API Project",
+    date: "Apr 2024 - Apr 2024",
+    description:
+      "Developed a JSON API project that enables users to access a wide range of data, including user information, posts, and comments. The API is designed to be user-friendly and intuitive, allowing users to easily retrieve and interact with data.",
+    image:
+      "https://res.cloudinary.com/dh4adw5o7/image/upload/v1714657176/Portfolio%20Content/fhviim4fbdy8rm6ztjet.png",
+    tags: ["React Js", "Node Js", "Tailwind CSS", "Javascript", "CSS"],
+    category: "web app",
+    github: "https://github.com/KaranSingh52ED/Product-Api",
+    webapp: "https://product-api-eosin.vercel.app/",
   },
 
   {
@@ -507,6 +536,19 @@ export const projects = [
     category: "web app",
     github: "https://github.com/KaranSingh52ED/To-Do-LIst-Web-App",
     webapp: "https://to-do-list-webapp-kabira.vercel.app/",
+  },
+  {
+    id: 6,
+    title: "Login-Resister Project",
+    date: "Apr 2024",
+    description:
+      "This project is a fully functional and responsive Login and Register Web Application. The implementation utilizes several languages including HTML, CSS, and JavaScript, tailwind css. Hence, it serves as a straightforward and comprehensive codebase for a Todo List Project.",
+    image:
+      "https://res.cloudinary.com/dh4adw5o7/image/upload/v1714657608/Portfolio%20Content/wy5rfu2cmxeh2oktcolu.png",
+    tags: ["HTML", "CSS", "JAVASCRIPT"],
+    category: "web app",
+    github: "https://github.com/KaranSingh52ED/login-signup-insti-webops",
+    webapp: "https://login-signup-insti-webops.vercel.app/signup",
   },
   {
     id: 7,
