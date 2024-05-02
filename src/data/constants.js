@@ -274,7 +274,7 @@ export const experiences = [
 export const education = [
   {
     id: 0,
-    img: "https://media.licdn.com/dms/image/C4E07AQHg2-IKbZNPmg/group-logo_image-shrink_92x92/0/1631004973999?e=1714161600&v=beta&t=lqHHOxGMovRU8y4GOAsstembow0ITgVfLE-NpK7LVqA",
+    img: "https://media.licdn.com/dms/image/C4D0BAQGqbSuxjLqtWQ/company-logo_200_200/0/1659504006681/reachiitm_logo?e=1718236800&v=beta&t=EbZngkbhwqJycype0MsAKdUlr-JRvmH_X-iyvNFaoDw",
     school: "Indian Institute of Technology Madras, Chennai (TN)",
     date: "Nov 2022 - Jul 2027",
     grade: "7.3/10 till 3rd Semester",
