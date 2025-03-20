@@ -50,7 +50,7 @@ export const skills = [
         name: "HTML",
         image: "https://www.w3.org/html/logo/badge/html5-badge-h-solo.png",
       },
-      
+
       {
         name: "JavaScript",
         image:
@@ -223,6 +223,48 @@ export const experiences = [
   },
   {
     id: 0,
+    img: "https://media.licdn.com/dms/image/v2/D560BAQHP4iG3eYPHPA/company-logo_200_200/company-logo_200_200/0/1696913393804?e=2147483647&v=beta&t=HA4t0YUgW02oCMWaK5tRs4efzC-2EtEq_ftD3hpZw4E",
+    role: "Software Engineer",
+    company: "Bluestock Fintech Pvt. Ltd.",
+    date: "Nov 2024 - Dec 2024",
+    desc: "• Led IPO web application development at Bluestock Fintech, managing 5-intern team for comprehensive data platform • Engineered high-performance REST API using Django and PostgreSQL, handling 10,000+ concurrent requests • Conducted rigorous API testing using Postman, achieving 100% error-free functionality and Admin panel integration • Delivered a production-ready system in 8 weeks, showcasing problem-solving, efficiency, & meeting deadlines ",
+    skills: [
+      "Python",
+      "django",
+      "PostgreSQL",
+      "tailwindcss",
+      "ReBAC",
+      "RBAC",
+      "IPO Management",
+    ],
+    doc: "",
+  },
+
+  {
+    id: 0,
+    img: "https://www.tulsiverse.in/logo/logo.avif",
+    role: "Cofounder",
+    company: "Tulsiverse & The Woodworks",
+    date: "2024 - Present",
+    desc: "• Co-founded TulsiVerse, a platform for handcrafted woodcarving solutions, driving product innovation and technology development. • Engineered a multi-language platform using Next.js and Tailwind CSS, increasing user engagement by 35%. • Developed scalable RESTful APIs with Node.js and MongoDB, optimizing performance and reducing latency by 20%. • Designed and integrated key features such as e-commerce, referral systems, community chat, and article posting, significantly enhancing user retention. • Led cross-functional teams, ensuring seamless UI/UX, scalability, and continuous platform improvements.",
+    skills: [
+      "Entrepreneurship",
+      "Full-Stack Development",
+      "Next.js",
+      "React",
+      "Node.js",
+      "AI & LLM Integration",
+      "Product Development",
+      "Business Strategy",
+      "Leadership",
+      "Git",
+      "E-Commerce Solutions",
+    ],
+    doc: "",
+  },
+
+  {
+    id: 0,
     img: "https://res.cloudinary.com/dh4adw5o7/image/upload/v1727804076/Portfolio%20Content/wvgawfo4dr5pyqag5tl3.jpg",
     role: "Software Developer Intern",
     company: "Xzect Labs Pvt. Ltd.",
@@ -387,6 +429,46 @@ export const education = [
 
 export const projects = [
   {
+    id: 2,
+    title: "MarkNoteS Project",
+    date: "Apr 2024 - Present",
+
+    description:
+      "MarkNotes is a comprehensive note-taking application that allows users to create, edit, and delete notes. The application features a user-friendly interface that enables users to organize notes by category, add titles, and include detailed descriptions. Users can easily manage their notes by marking them as favorites, which are then displayed in a separate section. MarkNotes is an ideal solution for individuals seeking a simple and efficient note-taking application.",
+    image:
+      "https://res.cloudinary.com/dh4adw5o7/image/upload/v1742482169/Portfolio%20Content/shlugwlsqk1emolej9m0.png",
+    tags: [
+      "React Js",
+      "Typescript",
+      "MongoDB",
+      "Node Js",
+      "Javascript",
+      "Tailwind CSS",
+      "Framer Motion",
+      "Express Js",
+      "Redux",
+      "MERN Stack",
+    ],
+    category: "web app",
+    github: "https://github.com/KaranSingh52ED/mern-note_taking-web",
+    webapp: "https://mern-note-taking-web.vercel.app/",
+  },
+  {
+    id: 1,
+    title: "Fintech IPO Management System",
+    date: "Nov 2024 - Dec 2024",
+    description:
+      "Bluestoch Fintech IPO Website is a cutting-edge platform designed to provide real-time insights, analysis, and investment opportunities in the IPO market. With a sleek interface and advanced financial tools, it offers seamless access to IPO listings, market trends, and secure transactions. Whether you're an investor or a financial institution, This ensures a transparent and efficient IPO investment experience.It is Just a Portfolio Project. I have created this project to showcase my skills and projects. The project is built using React Js, Node Js, and Tailwind CSS. The user interface is styled using Tailwind CSS, ensuring a visually appealing and intuitive design.",
+    image:
+      "https://res.cloudinary.com/dh4adw5o7/image/upload/v1742482747/Portfolio%20Content/rjufwtykrf0mqlqrmzyl.png",
+    tags: ["Python", "Django", "CSS", "Javascript", "HTML"],
+    category: "web app",
+    github: "https://github.com/KaranSingh52ED/Bluestock_Project",
+    webapp:
+      "https://drive.google.com/drive/folders/15iwhQq6a9UUeorMYMVbSBk15GRtM9-u_?usp=drive_link",
+  },
+
+  {
     id: 1,
     title: "TulsiVerse Full-Stack Ecommerce Project",
     date: "Nov 2023 - Present",
@@ -441,30 +523,6 @@ export const projects = [
     category: "web app",
     github: "https://github.com/KaranSingh52ED/fullstack-mandi-project",
     webapp: "https://online-mandii.vercel.app/",
-  },
-  {
-    id: 2,
-    title: "MarkNoteS Project",
-    date: "Feb 26 2024",
-
-    description:
-      "MarkNotes is a comprehensive note-taking application that allows users to create, edit, and delete notes. The application features a user-friendly interface that enables users to organize notes by category, add titles, and include detailed descriptions. Users can easily manage their notes by marking them as favorites, which are then displayed in a separate section. MarkNotes is an ideal solution for individuals seeking a simple and efficient note-taking application.",
-    image:
-      "https://res.cloudinary.com/dh4adw5o7/image/upload/v1713554841/Portfolio%20Content/ptjuj73yscrjzmvinq1y.png",
-    tags: [
-      "React Js",
-      "Typescript",
-      "MongoDB",
-      "Node Js",
-      "Javascript",
-      "Tailwind CSS",
-      "Express Js",
-      "Redux",
-      "MERNG Stack",
-    ],
-    category: "web app",
-    github: "https://github.com/KaranSingh52ED/mern-note_taking-web",
-    webapp: "https://mern-note-taking-web.vercel.app/",
   },
 
   {
@@ -621,39 +679,6 @@ export const projects = [
     category: "web app",
     github: "https://github.com/KaranSingh52ED/To-Do-LIst-Web-App",
     webapp: "https://to-do-list-webapp-kabira.vercel.app/",
-  },
-  {
-    id: 6,
-    title: "Login-Resister Project",
-    date: "Apr 2024",
-    description:
-      "This project is a fully functional and responsive Login and Register Web Application. The implementation utilizes several languages including HTML, CSS, and JavaScript, tailwind css. Hence, it serves as a straightforward and comprehensive codebase for a Todo List Project.",
-    image:
-      "https://res.cloudinary.com/dh4adw5o7/image/upload/v1714657608/Portfolio%20Content/wy5rfu2cmxeh2oktcolu.png",
-    tags: ["HTML", "CSS", "JAVASCRIPT"],
-    category: "web app",
-    github: "https://github.com/KaranSingh52ED/login-signup-insti-webops",
-    webapp: "https://login-signup-insti-webops.vercel.app/signup",
-  },
-  {
-    id: 7,
-    title: "Flawless Contact Page: Effortless Google Sheet Integration",
-    date: "Feb 27 2024",
-    description:
-      "This project represents a comprehensive and fully operational web application specifically designed for a contact page. It features a robust functionality that enables users to effortlessly input and store essential information, including their name, contact number, email address, and message, into a Google Sheet with seamless efficiency. Upon submission of the form, a prompt in the form of a popup notification will promptly confirm the successful submission of the form, ensuring a smooth user experience.",
-
-    image:
-      "https://res.cloudinary.com/dh4adw5o7/image/upload/v1710089968/Portfolio%20Content/aezcmpao0pge0mfudw1l.png",
-    tags: [
-      "React Js",
-      "Rest API",
-      "JAVASCRIPT",
-      "Tailwind CSS",
-      "Fetching API",
-    ],
-    category: "web app",
-    github: "https://github.com/KaranSingh52ED/Contact-FormWith-Google-Sheet",
-    webapp: "https://contact-form-with-google-sheet.vercel.app/",
   },
 
   {
