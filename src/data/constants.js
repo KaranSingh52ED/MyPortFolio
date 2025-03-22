@@ -1,13 +1,12 @@
 export const Bio = {
   name: "Karan Singh",
   roles: [
-    "Software Developer",
-    "Full Stack Developer",
-    "Programmer",
-    "UI/UX Designer",
+    "Software Engineer",
+    "Data Science Enthusiast",
+    "Full-Stack Developer",
   ],
   description:
-    "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
+    "I am a results-driven Software Engineer with expertise in full-stack development, UI/UX design, and data-driven solutions. With experience in building scalable applications and leading development teams, I am passionate about leveraging technology to create impactful digital solutions. My strong problem-solving skills, combined with a commitment to continuous learning, enable me to deliver high-quality, innovative software solutions.",
   github: "https://github.com/KaranSingh52ED",
   resume:
     "https://drive.google.com/file/d/1Y5CnFNH4QBLYJkRoYFKBDZgtMFttJlgQ/view?usp=drive_link",
@@ -666,20 +665,6 @@ export const projects = [
     github: "https://github.com/KaranSingh52ED/Ultimate-Jee",
     webapp: "https://ultimate-jee.vercel.app/",
   },
-  {
-    id: 6,
-    title: "ToDo List Web Project",
-    date: "Feb 27 2024",
-    description:
-      "This project presents a fully functional and responsive Todo List Web Application. It offers the capability to add tasks with titles, detailed descriptions, and dates. Users can conveniently delete and update task entries according to their requirements, and mark tasks as completed. The implementation utilizes several languages including HTML, CSS, and JavaScript. Hence, it serves as a straightforward and comprehensive codebase for a Todo List Project.",
-
-    image:
-      "https://res.cloudinary.com/dh4adw5o7/image/upload/v1709039449/Portfolio%20Content/mt61gf2wttd90d6porvi.png",
-    tags: ["HTML", "CSS", "JAVASCRIPT"],
-    category: "web app",
-    github: "https://github.com/KaranSingh52ED/To-Do-LIst-Web-App",
-    webapp: "https://to-do-list-webapp-kabira.vercel.app/",
-  },
 
   {
     id: 9,
@@ -688,7 +673,7 @@ export const projects = [
     description:
       "This project is a fully functional and responsive calculator designed for effortless data calculation with an exceptional user interface. It employs various languages such as HTML, CSS, and JavaScript to ensure simplicity and efficiency. With its straightforward implementation, this calculator project offers a seamless user experience, making it an ideal choice for diverse computing needs.",
     image:
-      "https://res.cloudinary.com/dh4adw5o7/image/upload/v1708947513/Portfolio%20Content/e57nb9weawyruepgidpg.png",
+      "https://res.cloudinary.com/dh4adw5o7/image/upload/v1742635206/Portfolio%20Content/e57nb9weawyruepgidpg.png",
 
     tags: ["REACT", "CSS", "JAVASCRIPT"],
     category: "web app",
