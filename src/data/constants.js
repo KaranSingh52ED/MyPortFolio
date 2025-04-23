@@ -9,7 +9,7 @@ export const Bio = {
     "I am a results-driven Software Engineer with expertise in full-stack development, UI/UX design, and data-driven solutions. With experience in building scalable applications and leading development teams, I am passionate about leveraging technology to create impactful digital solutions. My strong problem-solving skills, combined with a commitment to continuous learning, enable me to deliver high-quality, innovative software solutions.",
   github: "https://github.com/KaranSingh52ED",
   resume:
-    "https://drive.google.com/file/d/1Y5CnFNH4QBLYJkRoYFKBDZgtMFttJlgQ/view?usp=drive_link",
+    "https://drive.google.com/file/d/1SNdzwa2ue9pNqlfPVHFzpeg8AHpKDiou/view?usp=drive_link",
   linkedin: "https://www.linkedin.com/in/karan-singh-875797260/",
   twitter: "",
   insta: "",
